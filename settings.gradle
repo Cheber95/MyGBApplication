@@ -1,0 +1,2 @@
+rootProject.name = "My GB Application"
+include ':app'

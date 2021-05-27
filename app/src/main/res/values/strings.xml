@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My GB Application</string>
+    <string name="press_my_please">press my, please</string>
+    <string name="switch_me">switch me</string>
+    <string name="this_is_my_first_application">This is my first application</string>
+</resources>
