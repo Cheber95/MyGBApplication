@@ -3,4 +3,16 @@
     <string name="press_my_please">press my, please</string>
     <string name="switch_me">switch me</string>
     <string name="this_is_my_first_application">This is my first application</string>
+    <string name="select_me">select me</string>
+    <string name="unpressed">unpressed</string>
+    <string name="pressed">pressed</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="text_field">text_field</string>
+    <string name="person_name">person_name</string>
+    <string name="phone_number">phone_number</string>
+    <string name="number">number</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="select_mode">select mode</string>
 </resources>
